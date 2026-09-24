@@ -1,17 +1,17 @@
 # Hi, I'm phpstone 👋
 
-Welcome to my GitHub profile.
+I build small, focused apps and thoughtful digital experiences.
 
 ## Projects
 
 ### Film Camera
 
-A simple camera experience inspired by the warmth and character of film photography.
+A camera experience inspired by the warmth and character of film photography.
 
-- [Product page](./filmcamera/)
-- [Privacy policy](./filmcamera/privacy/)
-- [Support](./filmcamera/support/)
+- [Website](https://phpstone.github.io/filmcamera/)
+- [Privacy policy](https://phpstone.github.io/filmcamera/privacy/)
+- [Support](https://phpstone.github.io/filmcamera/support/)
 
 ## Contact
 
-If you have a question or suggestion, please [open an issue](https://github.com/phpstone/phpstone/issues).
+For Film Camera questions or suggestions, please [open a support issue](https://github.com/phpstone/phpstone.github.io/issues).
